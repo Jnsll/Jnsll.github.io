@@ -3,51 +3,73 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://jnsll.github.io/</loc>
+    <lastmod>2019-08-02T16:56:38+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jnsll.github.io/publis/</loc>
+    <lastmod>2019-08-02T16:56:38+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jnsll.github.io/publis/publis/</loc>
+    <lastmod>2019-08-02T16:56:38+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jnsll.github.io/research/research/</loc>
+    <lastmod>2019-08-02T16:55:38+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jnsll.github.io/research/</loc>
     <lastmod>2019-08-02T16:55:38+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/research/research/</loc>
-    <lastmod>2019-08-02T16:55:38+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/research/</loc>
-    <lastmod>2019-08-02T16:55:38+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/contact/contact/</loc>
+    <loc>https://jnsll.github.io/contact/contact/</loc>
     <lastmod>2019-08-02T16:39:28+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/contact/</loc>
+    <loc>https://jnsll.github.io/contact/</loc>
     <lastmod>2019-08-02T16:39:28+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/projects/</loc>
+    <loc>https://jnsll.github.io/projects/</loc>
     <lastmod>2019-08-02T16:27:50+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/projects/side_projects/</loc>
+    <loc>https://jnsll.github.io/projects/side_projects/</loc>
     <lastmod>2019-08-02T16:27:50+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://jnsll.github.io/teaching/teaching/</loc>
+    <lastmod>2019-08-02T16:26:34+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jnsll.github.io/teaching/</loc>
+    <lastmod>2019-08-02T16:26:34+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://jnsll.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jnsll.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   

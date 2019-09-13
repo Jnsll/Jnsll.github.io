@@ -2,31 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>June Sallou</title>
-    <link>http://example.org/</link>
+    <link>https://jnsll.github.io/</link>
     <description>Recent content on June Sallou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Fri, 02 Aug 2019 16:55:38 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2019 16:56:38 +0200</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jnsll.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Publis</title>
+      <link>https://jnsll.github.io/publis/publis/</link>
+      <pubDate>Fri, 02 Aug 2019 16:56:38 +0200</pubDate>
+      
+      <guid>https://jnsll.github.io/publis/publis/</guid>
+      <description>In progress</description>
+    </item>
+    
+    <item>
       <title>Research</title>
-      <link>http://example.org/research/research/</link>
+      <link>https://jnsll.github.io/research/research/</link>
       <pubDate>Fri, 02 Aug 2019 16:55:38 +0200</pubDate>
       
-      <guid>http://example.org/research/research/</guid>
+      <guid>https://jnsll.github.io/research/research/</guid>
       <description>Doctorate I&amp;rsquo;m currently a PhD Student in Software Engineering and Hydrogeology at the University of Rennes 1. My doctorate is part of a collaboration between the IRISA and OSUR laboratories and reflects the desire to bring software engineering closer to the scientific field of hydrogeology. Thus, I participate in the research activities of the DiverSE and DIMENV@risce teams.
 My research work mainly focuses on modelling for decision making and flood risk assessment.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://example.org/contact/contact/</link>
+      <link>https://jnsll.github.io/contact/contact/</link>
       <pubDate>Fri, 02 Aug 2019 16:39:28 +0200</pubDate>
       
-      <guid>http://example.org/contact/contact/</guid>
+      <guid>https://jnsll.github.io/contact/contact/</guid>
       <description>Mail : june {dot} benvegnu-sallou {at} univ-rennes1 {dot} fr
 Building 13
 Université Rennes 1, IRISA
@@ -36,13 +45,22 @@ Campus Beaulieu
     
     <item>
       <title>Side Projects</title>
-      <link>http://example.org/projects/side_projects/</link>
+      <link>https://jnsll.github.io/projects/side_projects/</link>
       <pubDate>Fri, 02 Aug 2019 16:27:50 +0200</pubDate>
       
-      <guid>http://example.org/projects/side_projects/</guid>
+      <guid>https://jnsll.github.io/projects/side_projects/</guid>
       <description>I really like to take part in projects, especially when science and IT are mixed or when they are linked to vulgarisation and sharing knowledge. I also spend time being part of non-profit humanitarian associations.
 Vulgarisation https://bioinfo-fr.net/
  Contributor for the French blog of bioinformatics vulgarisation  Proofreading articles Author of an introductory article about the Python library called pandas   Associations JeBiF (Jeunes Bioinformaticiens de France) National association aiming to regroup young people working in the field of bioinformatics.</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://jnsll.github.io/teaching/teaching/</link>
+      <pubDate>Fri, 02 Aug 2019 16:26:34 +0200</pubDate>
+      
+      <guid>https://jnsll.github.io/teaching/teaching/</guid>
+      <description>Building&amp;hellip;</description>
     </item>
     
   </channel>

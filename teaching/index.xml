@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teachings on June Sallou</title>
+    <link>https://jnsll.github.io/teaching/</link>
+    <description>Recent content in Teachings on June Sallou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Fri, 02 Aug 2019 16:26:34 +0200</lastBuildDate>
+    
+	<atom:link href="https://jnsll.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://jnsll.github.io/teaching/teaching/</link>
+      <pubDate>Fri, 02 Aug 2019 16:26:34 +0200</pubDate>
+      
+      <guid>https://jnsll.github.io/teaching/teaching/</guid>
+      <description>Building&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
