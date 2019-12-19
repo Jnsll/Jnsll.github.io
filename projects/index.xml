@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on June Sallou</title>
@@ -19,7 +19,7 @@
       <guid>https://jnsll.github.io/projects/side_projects/</guid>
       <description>I really like to take part in projects, especially when science and IT are mixed or when they are linked to vulgarisation and sharing knowledge. I also spend time being part of non-profit humanitarian associations.
 Vulgarisation https://bioinfo-fr.net/
- Contributor for the French blog of bioinformatics vulgarisation  Proofreading articles Author of an introductory article about the Python library called pandas   Associations JeBiF (Jeunes Bioinformaticiens de France) National association aiming to regroup young people working in the field of bioinformatics.</description>
+ Contributor for the French blog of bioinformatics vulgarisation  Proofreading articles Author of an introductory article about the Python library called pandas    Associations JeBiF (Jeunes Bioinformaticiens de France) National association aiming to regroup young people working in the field of bioinformatics.</description>
     </item>
     
   </channel>
