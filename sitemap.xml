@@ -1,76 +1,79 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>https://jnsll.github.io/talk/example-talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://jnsll.github.io/</loc>
-    <lastmod>2019-08-02T16:56:38+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jnsll.github.io/publis/</loc>
-    <lastmod>2019-08-02T16:56:38+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jnsll.github.io/publis/publis/</loc>
-    <lastmod>2019-08-02T16:56:38+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jnsll.github.io/research/research/</loc>
-    <lastmod>2019-08-02T16:55:38+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jnsll.github.io/research/</loc>
-    <lastmod>2019-08-02T16:55:38+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jnsll.github.io/contact/contact/</loc>
-    <lastmod>2019-08-02T16:39:28+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jnsll.github.io/contact/</loc>
-    <lastmod>2019-08-02T16:39:28+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jnsll.github.io/projects/</loc>
-    <lastmod>2019-08-02T16:27:50+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jnsll.github.io/projects/side_projects/</loc>
-    <lastmod>2019-08-02T16:27:50+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jnsll.github.io/teaching/teaching/</loc>
-    <lastmod>2019-08-02T16:26:34+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jnsll.github.io/teaching/</loc>
-    <lastmod>2019-08-02T16:26:34+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jnsll.github.io/event/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jnsll.github.io/publication-type/2/</loc>
+    <lastmod>2021-09-20T17:20:29+02:00</lastmod>
+  </url><url>
+    <loc>https://jnsll.github.io/publication_types/</loc>
+    <lastmod>2021-09-20T17:20:29+02:00</lastmod>
+  </url><url>
+    <loc>https://jnsll.github.io/publication/</loc>
+    <lastmod>2021-09-20T17:20:29+02:00</lastmod>
+  </url><url>
+    <loc>https://jnsll.github.io/publication/leroy-hal-03318348/</loc>
+    <lastmod>2021-09-20T17:20:29+02:00</lastmod>
+  </url><url>
+    <loc>https://jnsll.github.io/tag/academic/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://jnsll.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jnsll.github.io/category/demo/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jnsll.github.io/post/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://jnsll.github.io/tags/</loc>
-    <priority>0</priority>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jnsll.github.io/post/getting-started/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jnsll.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jnsll.github.io/category/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jnsll.github.io/publication-type/1/</loc>
+    <lastmod>2021-09-20T17:20:29+02:00</lastmod>
+  </url><url>
+    <loc>https://jnsll.github.io/publication/10-1007-978-3-030-50417-5-11/</loc>
+    <lastmod>2021-09-20T17:20:29+02:00</lastmod>
+  </url><url>
+    <loc>https://jnsll.github.io/publication/9094197/</loc>
+    <lastmod>2021-09-20T17:20:29+02:00</lastmod>
+  </url><url>
+    <loc>https://jnsll.github.io/project/example/</loc>
+    <lastmod>2019-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jnsll.github.io/tag/master/</loc>
+    <lastmod>2019-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jnsll.github.io/project/</loc>
+    <lastmod>2019-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jnsll.github.io/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jnsll.github.io/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jnsll.github.io/publication/example/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jnsll.github.io/admin/</loc>
   </url>
-  
 </urlset>
