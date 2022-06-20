@@ -2,8 +2,8 @@
   "name": "June Sallou",
   "short_name": "June Sallou",
   "lang": "en-us",
-  "theme_color": "hsl(339, 90%, 68%)",
-  "background_color": "hsl(339, 90%, 68%)",
+  "theme_color": "#bbdefb",
+  "background_color": "#bbdefb",
   "icons": [{
     "src": "/media/icon_hubf4be832d8ee7c4fd6e1d277fceada36_162137_192x192_fill_lanczos_center_3.png",
     "sizes": "192x192",
