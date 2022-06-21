@@ -5,7 +5,7 @@
     <link>https://jnsll.github.io/publication/</link>
       <atom:link href="https://jnsll.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 June Sallou</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 June Sallou</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jnsll.github.io/media/icon_hubf4be832d8ee7c4fd6e1d277fceada36_162137_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,46 +13,35 @@
     </image>
     
     <item>
-      <title>When Scientific Software Meets Software Engineering</title>
-      <link>https://jnsll.github.io/publication/leroy-hal-03318348/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://jnsll.github.io/publication/leroy-hal-03318348/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Loop Aggregation for Approximate Scientific Computing</title>
-      <link>https://jnsll.github.io/publication/10-1007-978-3-030-50417-5-11/</link>
-      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://jnsll.github.io/publication/10-1007-978-3-030-50417-5-11/</guid>
+      <title>Data-Centric Green AI: An Exploratory Empirical Study</title>
+      <link>https://jnsll.github.io/publication/verdecchia-2022-data/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jnsll.github.io/publication/verdecchia-2022-data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Hitchhiker&#39;s Guide to Model-Driven Engineering for Data-Centric Systems</title>
-      <link>https://jnsll.github.io/publication/9094197/</link>
-      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://jnsll.github.io/publication/9094197/</guid>
+      <link>https://jnsll.github.io/publication/moda/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jnsll.github.io/publication/moda/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://jnsll.github.io/publication/example/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://jnsll.github.io/publication/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>When Scientific Software Meets Software Engineering</title>
+      <link>https://jnsll.github.io/publication/leroy-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jnsll.github.io/publication/leroy-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Loop Aggregation for Approximate Scientific Computing</title>
+      <link>https://jnsll.github.io/publication/sallou-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jnsll.github.io/publication/sallou-2020/</guid>
+      <description></description>
     </item>
     
   </channel>
