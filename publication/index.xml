@@ -5,12 +5,28 @@
     <link>https://jnsll.github.io/publication/</link>
       <atom:link href="https://jnsll.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 June Sallou</copyright><lastBuildDate>Thu, 26 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 June Sallou</copyright><lastBuildDate>Fri, 24 Mar 2023 16:17:20 +0100</lastBuildDate>
     <image>
       <url>https://jnsll.github.io/media/icon_hu1ae83194d42b9ea887a0597734a82928_92613_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://jnsll.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Uncovering Energy-Efficient Practices in Deep Learning Training: Preliminary Steps Towards Green AI</title>
+      <link>https://jnsll.github.io/publication/cain23/</link>
+      <pubDate>Fri, 24 Mar 2023 16:17:20 +0100</pubDate>
+      <guid>https://jnsll.github.io/publication/cain23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retrain AI Systems Responsibly! Use Sustainable Concept Drift Adaptation Techniques</title>
+      <link>https://jnsll.github.io/publication/greens23/</link>
+      <pubDate>Tue, 21 Mar 2023 16:17:20 +0100</pubDate>
+      <guid>https://jnsll.github.io/publication/greens23/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Systematic Review of Green AI</title>
@@ -57,14 +73,6 @@
       <link>https://jnsll.github.io/publication/sallou-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://jnsll.github.io/publication/sallou-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jnsll.github.io/publication/greens23/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jnsll.github.io/publication/greens23/</guid>
       <description></description>
     </item>
     
