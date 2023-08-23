@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | June Sallou</title>
-    <link>https://jnsll.github.io/event/</link>
-      <atom:link href="https://jnsll.github.io/event/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming Talks</description>
+    <title>Sustainability | June Sallou</title>
+    <link>https://jnsll.github.io/tag/sustainability/</link>
+      <atom:link href="https://jnsll.github.io/tag/sustainability/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sustainability</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 June Sallou</copyright><lastBuildDate>Tue, 29 Aug 2023 14:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jnsll.github.io/media/icon_hu1ae83194d42b9ea887a0597734a82928_92613_512x512_fill_lanczos_center_3.png</url>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://jnsll.github.io/event/</link>
+      <title>Sustainability</title>
+      <link>https://jnsll.github.io/tag/sustainability/</link>
     </image>
     
     <item>
