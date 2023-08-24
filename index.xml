@@ -5,7 +5,7 @@
     <link>https://jnsll.github.io/</link>
       <atom:link href="https://jnsll.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>June Sallou</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 June Sallou</copyright><lastBuildDate>Tue, 29 Aug 2023 14:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 June Sallou</copyright><lastBuildDate>Tue, 29 Aug 2023 14:00:00 +0200</lastBuildDate>
     <image>
       <url>https://jnsll.github.io/media/icon_hu1ae83194d42b9ea887a0597734a82928_92613_512x512_fill_lanczos_center_3.png</url>
       <title>June Sallou</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Sustainable Software Engineering: What about Social Sustainability?</title>
       <link>https://jnsll.github.io/talk/sustainable-software-engineering-what-about-social-sustainability/</link>
-      <pubDate>Tue, 29 Aug 2023 14:00:00 +0000</pubDate>
+      <pubDate>Tue, 29 Aug 2023 14:00:00 +0200</pubDate>
       <guid>https://jnsll.github.io/talk/sustainable-software-engineering-what-about-social-sustainability/</guid>
       <description></description>
     </item>
