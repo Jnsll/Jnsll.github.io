@@ -5,12 +5,20 @@
     <link>https://jnsll.github.io/publication-type/1/</link>
       <atom:link href="https://jnsll.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 June Sallou</copyright><lastBuildDate>Fri, 24 Mar 2023 16:17:20 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 June Sallou</copyright><lastBuildDate>Thu, 24 Aug 2023 10:31:22 +0200</lastBuildDate>
     <image>
       <url>https://jnsll.github.io/media/icon_hu1ae83194d42b9ea887a0597734a82928_92613_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://jnsll.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>The Two Faces of AI in Green Mobile Computing: A Literature Review</title>
+      <link>https://jnsll.github.io/publication/mobileaislr/</link>
+      <pubDate>Thu, 24 Aug 2023 10:31:22 +0200</pubDate>
+      <guid>https://jnsll.github.io/publication/mobileaislr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Uncovering Energy-Efficient Practices in Deep Learning Training: Preliminary Steps Towards Green AI</title>
