@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mobile Computing | June Sallou</title>
+    <link>https://jnsll.github.io/tag/mobile-computing/</link>
+      <atom:link href="https://jnsll.github.io/tag/mobile-computing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mobile Computing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 June Sallou</copyright><lastBuildDate>Fri, 08 Sep 2023 11:00:44 +0200</lastBuildDate>
+    <image>
+      <url>https://jnsll.github.io/media/icon_hu1ae83194d42b9ea887a0597734a82928_92613_512x512_fill_lanczos_center_3.png</url>
+      <title>Mobile Computing</title>
+      <link>https://jnsll.github.io/tag/mobile-computing/</link>
+    </image>
+    
+    <item>
+      <title>The Two Faces of AI in Green Mobile Computing: A Literature Review</title>
+      <link>https://jnsll.github.io/talk/the-two-faces-of-ai-in-green-mobile-computing-a-literature-review/</link>
+      <pubDate>Fri, 08 Sep 2023 11:00:44 +0200</pubDate>
+      <guid>https://jnsll.github.io/talk/the-two-faces-of-ai-in-green-mobile-computing-a-literature-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
