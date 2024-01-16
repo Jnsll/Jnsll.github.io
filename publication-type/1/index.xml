@@ -5,12 +5,20 @@
     <link>https://jnsll.github.io/publication-type/1/</link>
       <atom:link href="https://jnsll.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 June Sallou</copyright><lastBuildDate>Thu, 24 Aug 2023 10:36:30 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 June Sallou</copyright><lastBuildDate>Fri, 22 Dec 2023 10:36:30 +0200</lastBuildDate>
     <image>
       <url>https://jnsll.github.io/media/icon_hu1ae83194d42b9ea887a0597734a82928_92613_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://jnsll.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Breaking the Silence: the Threats of Using LLMs in Software Engineering</title>
+      <link>https://jnsll.github.io/publication/nier24/</link>
+      <pubDate>Fri, 22 Dec 2023 10:36:30 +0200</pubDate>
+      <guid>https://jnsll.github.io/publication/nier24/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Batching for Green AI - An Exploratory Study on Inference</title>
