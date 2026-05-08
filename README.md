@@ -18,10 +18,6 @@
 <!--ts-->
 
 - [al-folio](#al-folio)
-  - [User community](#user-community)
-  - [Lighthouse PageSpeed Insights](#lighthouse-pagespeed-insights)
-    - [Desktop](#desktop)
-    - [Mobile](#mobile)
   - [Table Of Contents](#table-of-contents)
   - [Getting started](#getting-started)
   - [Installing and Deploying](#installing-and-deploying)
@@ -49,10 +45,8 @@
       - [Code quality checks](#code-quality-checks)
       - [GDPR Cookie Consent Dialog](#gdpr-cookie-consent-dialog)
   - [FAQ](#faq)
-  - [Contributing](#contributing)
     - [Maintainers](#maintainers)
     - [All Contributors](#all-contributors)
-  - [Star History](#star-history)
   - [License](#license)
 
 <!--te-->
