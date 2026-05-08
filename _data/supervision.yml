@@ -1,0 +1,109 @@
+phd:
+  - name: Saima Mehboob
+    topic: "Efficacy of Virtual Reality as a Tool for LLM Use in Education. Evaluation of Carbon Chat. Visiting PhD student."
+    start: May 2026
+    end: Sep 2026
+    institution: Wageningen University & Research
+    status: ongoing
+    co_supervisor: "Will Hurst"
+
+  - name: Lorena Poenaru-Olaru
+    topic: "Green AI research and collaboration on publications (GREENS 2023, ICT4S 2025). Assistance in supervision."
+    start: 2022
+    end: 2024
+    institution: TU Delft (Netherlands)
+    status: completed
+    co_supervisor: "Luís Cruz, Arie van Deursen"
+
+msc:
+  - name: Otto Kaaij
+    topic: "SMURF: a Methodology for Energy Profiling Software Systems"
+    year: 02-2025
+    institution: TU Delft
+    status: completed        # or: completed
+    co_supervisor: "Luís Cruz, José da Silva (Solenix GmbH)"      # or: "Prof. Name" if applicable
+    url: "https://repository.tudelft.nl/record/uuid:45c15228-65e2-480b-a239-bcd8bd927f28"
+
+  - name: Nienke Nijkamp
+    topic: "Green AI in Action: Strategic Model Selection for Ensembles in Production"
+    year: 04-2024
+    institution: TU Delft
+    status: completed        # or: completed
+    co_supervisor: "Luís Cruz, Arie van Deursen, Niels van der Heijden (Deloitte)"      # or: "Prof. Name" if applicable
+    url: "https://repository.tudelft.nl/record/uuid:9037207d-c92a-43c0-a4ea-41907b4f4d14"
+    papers:
+      - title: "Green AI in Action: Strategic Model Selection for Ensembles in Production"
+        url: "https://doi.org/10.1145/3664646.3664763"
+  
+  - name: Koen Hagen
+    topic: "E-Compare: Automated energy regression testing for software applications"
+    year: 06-2024
+    institution: TU Delft
+    status: completed
+    co_supervisor: "Luís Cruz"
+    url: "https://repository.tudelft.nl/record/uuid:28d8b827-5d50-4365-bff0-57a858658e91"
+    github: ""
+
+
+  - name: Dyon van der Ende
+    topic: "Green Patterns in Web Design"
+    year: 05-2024
+    institution: TU Delft
+    status: completed
+    co_supervisor: "Luís Cruz, Arie van Deursen"
+    url: "https://repository.tudelft.nl/record/uuid:0f17bd6c-ec99-4461-af0f-2ca35367d269"
+  
+  - name: Natalia Struharova
+    topic: "Approximate Computing for Build Jobs in Continuous Integration"
+    year: 05-2024
+    institution: TU Delft
+    status: completed
+    co_supervisor: "Luís Cruz, Arie van Deursen"
+    url: "https://repository.tudelft.nl/record/uuid:4c432eb4-c599-4f13-8386-b712a75d580a"
+  
+  - name: Bailey Tjiong
+    topic: "The impact of base image selection on the energy efficiency of containerized applications in Docker"
+    year: 12-2023
+    institution: TU Delft
+    status: completed
+    co_supervisor: "Thomas Durieux, Arie van Deursen"
+    url: "https://repository.tudelft.nl/record/uuid:1166da2a-a62d-4b53-baa3-08e6e107053b"
+
+bsc:
+  - name: Christian Veermer
+    topic: "Prediction Uncertainty in Carbon-Aware Scheduling"
+    year: 2026
+    institution: Wageningen University & Research
+    status: ongoing
+    co_supervisor: "Tarek Alskaif"
+  
+  - name: Stef Roza
+    topic: "Data Poisoning in customer service chatbots of SMEs"
+    year: 2026
+    institution: Wageningen University & Research
+    status: ongoing
+    co_supervisor: "Will Hurst" 
+
+  
+
+
+internships:
+  - name: Tanja Rauer
+    topic: "Balancing and Risk Management in a Cooperative Energy Supplier"
+    year: 2026
+    institution: Wageningen University & Research
+    status: ongoing
+    co_supervisor: ""
+  
+  - name: Monique Senyk
+    topic: "IdealShiftAI"
+    year: 2026
+    institution: Wageningen University & Research
+    status: ongoing
+
+  - name: Fabian van Grevenbroek
+    topic: "Reducing Lobster Size Measurement Inconsistency between Monitoring Setups using Image Augmentation"
+    year: 2025
+    institution: Wageningen University & Research
+    status: completed
+    level: Master

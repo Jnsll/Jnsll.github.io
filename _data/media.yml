@@ -1,0 +1,26 @@
+sections:
+  - title: "Press and Magazine Coverage"
+    icon: "fa-solid fa-newspaper"
+    badge_color: "#007a3d"
+    items:
+      - title: "Do great minds think alike?"
+        outlet: "Delft Matters (TU Delft)"
+        date: "June 2024"
+        url: "https://delftmatters.nl/delft-matters-no-5-june-2024/do-great-minds-think-alike/"
+
+      - title: "WE NEED TO DECARBONIZE SOFTWARE"
+        outlet: "IEEE Spectrum"
+        author: "Rina Diane Caballar"
+        date: "23 March 2024"
+        url: "https://spectrum.ieee.org/green-software"
+
+      - title: "The Two Faces of AI in Green Mobile Computing"
+        outlet: "Montreal AI Ethics Institute"
+        date: "1 February 2024"
+        url: "https://montrealethics.ai/the-two-faces-of-ai-in-green-mobile-computing-a-literature-review/"
+
+      - title: "ChatGPT gets little criticism, while the outcomes are sometimes really wrong"
+        outlet: "Delta (TU Delft)"
+        author: "Jos Wassink"
+        date: "6 February 2024"
+        url: "https://delta.tudelft.nl/en/article/chatgpt-gets-little-criticism-while-the-outcomes-are-sometimes-really-wrong"

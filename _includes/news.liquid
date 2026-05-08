@@ -4,7 +4,7 @@
     <div
       class="table-responsive"
       {% if include.limit and page.announcements.scrollable and news_size > 3 %}
-        style="max-height: 60vw"
+        style="max-height: 18rem; overflow-y: auto;"
       {% endif %}
     >
       <table class="table table-sm table-borderless">
@@ -21,7 +21,7 @@
               {% if item.inline %}
                 {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
               {% else %}
-                <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                <a class="news-title" href="{{ item.url | relative_url }}">{% if item.icon %}<i class="{{ item.icon }}"></i>&nbsp;{% endif %}{{ item.title }}</a>
               {% endif %}
             </td>
           </tr>

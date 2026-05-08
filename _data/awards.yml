@@ -1,0 +1,36 @@
+categories:
+  - title: "Paper Awards"
+    icon: "fa-solid fa-file-lines"
+    badge_color: "#00a6d6"
+    awards:
+      - name: "Best Paper Award"
+        year: "2023"
+        item: "\"Uncovering Energy-Efficient Practices in Deep Learning Training: Preliminary Steps Towards Green AI\""
+        context: "CAIN 2023"
+        context_icon: "fa-solid fa-trophy"
+
+      - name: "Top Cited Paper Award"
+        year: "2023"
+        item: "\"A Systematic Review of Green AI\" (Verdecchia, Sallou, Cruz)"
+        context: "WIREs Data Mining and Knowledge Discovery"
+        context_icon: "fa-solid fa-award"
+
+  - title: "Poster Awards"
+    icon: "fa-solid fa-image"
+    badge_color: "#e05c00"
+    awards:
+      - name: "Best Poster — First Prize of the Jury"
+        year: "2022"
+        item: "\"Approximate Computing: A way towards Sustainability\""
+        context: "Alice & Eve 2022"
+        context_icon: "fa-solid fa-trophy"
+
+  - title: "Service Awards"
+    icon: "fa-solid fa-handshake"
+    badge_color: "#7b2d8b"
+    awards:
+      - name: "SoSyM Best Reviewer Award"
+        year: "2023"
+        item: "Journal of Software and Systems Modeling (SoSyM)"
+        context: "Top 3% of SoSyM reviewers"
+        context_icon: "fa-solid fa-medal"

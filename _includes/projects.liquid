@@ -1,6 +1,27 @@
-<div class="col">
+{% assign project_card_size = project.card_size | default: "" %}
+{% if project_card_size == "" %}
+  {% assign project_title_length = project.title | size %}
+  {% if project_title_length > 26 %}
+    {% assign project_card_size = "wide" %}
+  {% else %}
+    {% assign project_card_size = "normal" %}
+  {% endif %}
+{% endif %}
+
+{% case project_card_size %}
+  {% when "small" %}
+    {% assign project_col_class = "col-12 col-md-6 col-xl-3" %}
+  {% when "normal" %}
+    {% assign project_col_class = "col-12 col-md-6 col-xl-4" %}
+  {% when "wide" %}
+    {% assign project_col_class = "col-12 col-md-6 col-xl-5" %}
+  {% else %}
+    {% assign project_col_class = "col-12 col-md-6 col-xl-4" %}
+{% endcase %}
+
+<div class="{{ project_col_class }}">
   <a href="{% if project.redirect %}{{ project.redirect }}{% else %}{{ project.url | relative_url }}{% endif %}">
-    <div class="card h-100 hoverable">
+    <div class="card hoverable">
       {% if project.img %}
         {%
           include figure.liquid

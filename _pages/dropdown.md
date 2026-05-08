@@ -1,13 +1,15 @@
 ---
 layout: page
-title: submenus
+title: Other Activities
 nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: bookshelf
-    permalink: /books/
-  - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: Academic services
+    permalink: /services/
+  - title: Media and Outreach
+    permalink: /media/
+  #- title: divider
+  - title: Awards
+    permalink: /awards/
 ---

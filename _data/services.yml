@@ -1,0 +1,127 @@
+sections:
+  - title: "Organisation"
+    icon: "fa-solid fa-people-group"
+    badge_color: "#007a3d"
+    groups:
+      - title: "Conferences"
+        items:
+          - name: "ICST"
+            details:
+              - "2025: Topic Diversity Co-Chair"
+          - name: "ICT4S"
+            details:
+              - "2027: Sustainability Chair"
+              - "2024: Co-Chair of the Doctoral Symposium"
+              - "2023: Co-Chair of the Demonstrations and Posters Track"
+              - "2022: Session Chair (Hybrid and in-person sessions)"
+      - title: "Seminars and Workshops"
+        items:
+          - name: "Behave Workshop (at ICT4S)"
+            details:
+              - "International Workshop on Multi-Disciplinary Strategies for Greening Software Engineering"
+              - "2025, 2026: Co-organiser"
+              - "Co-located with ICT4S 2025 and ICT4S 2026"
+              - "Spring 2024 online seminar: Co-organiser"
+          - name: "CECAM-Lorentz Workshop: Greening AI with Software Engineering"
+            details:
+              - "February 2025: Co-organiser"
+
+  - title: "Program Committee Member"
+    icon: "fa-solid fa-users-gear"
+    badge_color: "#00a6d6"
+    groups:
+      - title: "Conferences"
+        items:
+          - name: "FSE"
+            url: "https://www.esec-fse.org/"
+            details:
+              - "2027"
+          - name: "SANER"
+            url: "https://conf.researchr.org/series/saner"
+            details:
+              - "2024: Short Papers and Posters Track"
+              - "2025: Short Papers and Posters Track"
+          - name: "MSR"
+            url: "https://www.msrconf.org/"
+            note: "Main conference co-located with ICSE"
+            details:
+              - "2024: Data and Tool Showcase Track"
+              - "2025: Data and Tool Showcase Track"
+          - name: "QUATIC"
+            url: "https://www.quatic.org/"
+            details:
+              - "2024: Sustainability as a Quality Concern Track"
+              - "2025: Sustainability as a Quality Concern Track"
+          - name: "STAF"
+            url: "https://www.stafconferences.org/"
+            details:
+              - "2026: Workshop Track"
+          - name: "ICT4S"
+            url: "https://conf.researchr.org/series/ict4s"
+            details:
+              - "2023: Main Track"
+      - title: "Workshops"
+        items:
+          - name: "ASISAS"
+            details:
+              - "2026"
+          - name: "GREENS"
+            note: "Workshop series often co-located with ICSE"
+            details:
+              - "2025"
+              - "2026"
+          - name: "CAIN"
+            url: "https://conf.researchr.org/home/icse-2025/cain-2025"
+            note: "Workshop co-located with ICSE 2025"
+            details:
+              - "2025"
+          - name: "SATrends"
+            details:
+              - "2025"
+          - name: "Sustrainable"
+            details:
+              - "2025"
+          - name: "SusMod"
+            details:
+              - "2024"
+          - name: "BENEVOL"
+            details:
+              - "2023"
+              - "2024"
+          - name: "LIMITS"
+            details:
+              - "2023"
+              - "2024"
+          - name: "Models and Evolution"
+            details:
+              - "2023"
+
+  - title: "Reviewer"
+    icon: "fa-solid fa-book-open-reader"
+    badge_color: "#7b2d8b"
+    groups:
+      - title: "Journals"
+        items:
+          - name: "IEEE Software"
+            details:
+              - "2026"
+          - name: "Journal of Systems and Software"
+            details:
+              - "2025"
+          - name: "ACM Transactions on Software Engineering and Methodology (TOSEM)"
+            details:
+              - "2023, 2025"
+          - name: "International Journal on Software and Systems Modeling (SoSyM)"
+            details:
+              - "2023"
+              - "2024 Theme Section: Modeling and Sustainability"
+
+  - title: "Other Service"
+    icon: "fa-solid fa-shapes"
+    badge_color: "#e05c00"
+    groups:
+      - title: "Student Contest"
+        items:
+          - name: "SCORE 2023 (ICSE 2023) - Student Contest in Software Engineering"
+            details:
+              - "Program Committee Member and Jury Member"

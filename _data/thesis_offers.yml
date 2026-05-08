@@ -1,0 +1,43 @@
+- title: "Energy Measurement of LLM-Based Agentic Systems"
+  url: "/thesis-offers/energy-measurement-agentic-llms/"
+  level: MSc
+
+- title: "Exploring Reproducibility in AI Energy Research"
+  url: "/thesis-offers/reproducibility-ai-energy-research/"
+  level: MSc
+
+- title: "Assessing the Impact of LLM Output Variability on Energy Consumption"
+  url: "/thesis-offers/llm-output-variability-energy-impact/"
+  level: MSc
+
+- title: "How AI Developers Discuss Sustainability Concerns in Practice"
+  url: "/thesis-offers/developer-sustainability-concerns-ai/"
+  level: MSc
+
+- title: "Small Language Models vs Large Language Models: Energy Benefits and Trade-offs"
+  url: "/thesis-offers/slm-vs-llm-energy-benefits/"
+  level: MSc
+
+- title: "Carbon Accounting for Drone Image Datasets and AI Models "
+  url: "https://wur.jobteaser.com/en/backend/job-offers/e25aa175-32e1-4e17-9cf7-6257aaf818cf-wur-inf-thesis-estimating-the-carbon-footprint-of-uavs-image-datasets-and-ai-models-msc"
+  level: MSc
+
+
+
+- title: "Finding and Fixing Energy Bugs in Software Systems"
+  url: "/thesis-offers/energy-bugs/"
+  level: MSc
+
+#- title: "Carbon footprint of CI/CD pipelines: an empirical study"
+#  url: "https://university-platform.edu/offer/3"
+#  level: MSc
+
+
+
+#- title: "Green AI: benchmarking inference cost of small language models on edge devices"
+#  url: "https://university-platform.edu/offer/6"
+#  level: MSc
+
+#- title: "Carbon-aware scheduling for GitHub Actions workflows"
+#  url: "https://university-platform.edu/offer/7"
+#  level: MSc
