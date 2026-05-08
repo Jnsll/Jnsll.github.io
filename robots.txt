@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jnsll.github.io/sitemap.xml
+Sitemap: https://june.sallou.org/sitemap.xml
