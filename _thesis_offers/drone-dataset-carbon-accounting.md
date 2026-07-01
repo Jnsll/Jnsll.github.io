@@ -85,22 +85,22 @@ The work in this master thesis entails:
 ## Literature
 
 - Doornbos, J., & Babur, O. (2025). Ending Overfitting for UAV Applications -
-  Self-Supervised Pretraining on Multispectral UAV Data. *ISPRS Annals of the
-  Photogrammetry, Remote Sensing and Spatial Information Sciences*,
+  Self-Supervised Pretraining on Multispectral UAV Data. _ISPRS Annals of the
+  Photogrammetry, Remote Sensing and Spatial Information Sciences_,
   X-2-W2-2025, 31-39.
   [doi:10.5194/isprs-annals-X-2-W2-2025-31-2025](https://doi.org/10.5194/isprs-annals-X-2-W2-2025-31-2025)
 - Strubell, E., Ganesh, A., & McCallum, A. (2019). Energy and policy
-  considerations for deep learning in NLP. *ACL 2019*, 3645-3650.
+  considerations for deep learning in NLP. _ACL 2019_, 3645-3650.
 - Lacoste, A., Luccioni, A., Schmidt, V., & Dandres, T. (2019). Quantifying the
-  carbon emissions of machine learning. *arXiv:1910.09700*.
+  carbon emissions of machine learning. _arXiv:1910.09700_.
 - Henderson, P., Hu, J., Romoff, J., Brunskill, E., Jurafsky, D., & Pineau, J.
   (2020). Towards the systematic reporting of the energy and carbon footprints
-  of machine learning. *Journal of Machine Learning Research*, 21(248), 1-43.
+  of machine learning. _Journal of Machine Learning Research_, 21(248), 1-43.
 - Verdecchia, R., Sallou, J., & Cruz, L. (2023). A systematic review of Green
-  AI. *WIREs Data Mining and Knowledge Discovery*, 13(4), e1507.
+  AI. _WIREs Data Mining and Knowledge Discovery_, 13(4), e1507.
   [doi:10.1002/widm.1507](https://doi.org/10.1002/widm.1507)
 - Duran, P., Castano, J., Gomez, C., & Martinez-Fernandez, S. (2024).
-  GAISSALabel: A Tool for Energy Labeling of ML Models. *ACM Conferences*.
+  GAISSALabel: A Tool for Energy Labeling of ML Models. _ACM Conferences_.
   [doi:10.1145/3663529.3663811](https://doi.org/10.1145/3663529.3663811)
 
 ---
@@ -108,12 +108,14 @@ The work in this master thesis entails:
 ## Requirements
 
 **Courses:**
+
 - Programming in Python (INF-22306)
 - Machine Learning (FTE-35306)
 - Big Data (INF-33806)
 - Optional: Software Engineering
 
 **Required skills and knowledge:**
+
 - Programming and data analysis skills
 - Interest in AI, sustainability, and carbon accounting
 - Willingness to work with datasets, metadata, and experimental evaluation

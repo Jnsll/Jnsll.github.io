@@ -7,10 +7,11 @@ nav: false
 nav_order: 7
 calendar: false
 ---
+
 {% assign categories = site.data.awards.categories %}
 {% assign total_awards = 0 %}
 {% for category in categories %}
-  {% assign total_awards = total_awards | plus: category.awards.size %}
+{% assign total_awards = total_awards | plus: category.awards.size %}
 {% endfor %}
 
 <h2 class="mt-5">
@@ -28,7 +29,7 @@ calendar: false
     </span>
   </h2>
 
-  {% for award in category.awards %}
+{% for award in category.awards %}
   <div class="card mb-2 shadow-sm">
     <div class="card-body py-2 px-3">
       <div class="d-flex justify-content-between align-items-center">

@@ -19,12 +19,12 @@ greener code. The energy and curiosity in the room were remarkable.
 
 Here is how ICAI described the afternoon:
 
-> *"The afternoon featured a highly engaging, interactive workshop led by
+> _"The afternoon featured a highly engaging, interactive workshop led by
 > June Sallou from Wageningen University & Research. Attendees participated
 > in a hackathon-style energy profiling session. Instead of just talking about
 > sustainability, participants measured real-time consumption on an AI project
 > playground, navigating the delicate trade-offs between system performance,
-> model accuracy, and resource usage to write truly 'greener code'."*
+> model accuracy, and resource usage to write truly 'greener code'."_
 >
 > — ICAI Summer School 2026, official communications
 

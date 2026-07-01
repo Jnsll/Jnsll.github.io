@@ -13,10 +13,10 @@ description and reach out.
 
 {% assign offers = site.thesis_offers %}
 {% if offers %}
-  {% assign offers = offers | sort: "importance" %}
+{% assign offers = offers | sort: "importance" %}
 {% endif %}
 {% for offer in offers %}
-  {% if offer.status == "open" %}
+{% if offer.status == "open" %}
 <div class="card mb-2 shadow-sm">
   <div class="card-body py-2 px-3">
     <div class="d-flex justify-content-between align-items-center">

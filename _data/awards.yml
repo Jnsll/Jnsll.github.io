@@ -5,13 +5,13 @@ categories:
     awards:
       - name: "Best Paper Award"
         year: "2023"
-        item: "\"Uncovering Energy-Efficient Practices in Deep Learning Training: Preliminary Steps Towards Green AI\""
+        item: '"Uncovering Energy-Efficient Practices in Deep Learning Training: Preliminary Steps Towards Green AI"'
         context: "CAIN 2023"
         context_icon: "fa-solid fa-trophy"
 
       - name: "Top Cited Paper Award"
         year: "2023"
-        item: "\"A Systematic Review of Green AI\" (Verdecchia, Sallou, Cruz)"
+        item: '"A Systematic Review of Green AI" (Verdecchia, Sallou, Cruz)'
         context: "WIREs Data Mining and Knowledge Discovery"
         context_icon: "fa-solid fa-award"
 
@@ -21,7 +21,7 @@ categories:
     awards:
       - name: "Best Poster — First Prize of the Jury"
         year: "2022"
-        item: "\"Approximate Computing: A way towards Sustainability\""
+        item: '"Approximate Computing: A way towards Sustainability"'
         context: "Alice & Eve 2022"
         context_icon: "fa-solid fa-trophy"
 

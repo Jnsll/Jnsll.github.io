@@ -74,13 +74,13 @@ reported, compared, and trusted.
 
 ## What You Will Do
 
-| Phase | Work |
-|---|---|
+| Phase                     | Work                                                                                          |
+| ------------------------- | --------------------------------------------------------------------------------------------- |
 | **Literature & protocol** | Review Green AI reporting practices and reproducibility research; define replication protocol |
-| **Experiment setup** | Build repeatable measurement pipelines and logging scripts for selected AI workloads |
-| **Replication study** | Reproduce experiments under controlled variations (hardware/software/workload) |
-| **Analysis** | Measure dispersion and sensitivity; identify dominant variance drivers |
-| **Outputs** | Deliver thesis, reproducibility checklist, and reusable experimental artifacts |
+| **Experiment setup**      | Build repeatable measurement pipelines and logging scripts for selected AI workloads          |
+| **Replication study**     | Reproduce experiments under controlled variations (hardware/software/workload)                |
+| **Analysis**              | Measure dispersion and sensitivity; identify dominant variance drivers                        |
+| **Outputs**               | Deliver thesis, reproducibility checklist, and reusable experimental artifacts                |
 
 ---
 
@@ -98,11 +98,13 @@ reported, compared, and trusted.
 ## Who Should Apply
 
 **Required courses:**
+
 - Programming in Python (INF-22306)
 - Machine Learning (FTE-35306)
 - Big Data (INF-33806)
 
 **Required skills & mindset:**
+
 - Solid programming and data analysis skills
 - Interest in empirical software engineering and AI sustainability
 - Careful experimental design and documentation habits
@@ -114,15 +116,15 @@ reported, compared, and trusted.
 ## Key References
 
 - Verdecchia, R., Sallou, J., & Cruz, L. (2023). A systematic review of Green
-  AI. *WIREs Data Mining and Knowledge Discovery*, 13(4), e1507.
+  AI. _WIREs Data Mining and Knowledge Discovery_, 13(4), e1507.
   [doi:10.1002/widm.1507](https://doi.org/10.1002/widm.1507)
 - Henderson, P., Hu, J., Romoff, J., Brunskill, E., Jurafsky, D., & Pineau, J.
   (2020). Towards the systematic reporting of the energy and carbon footprints
-  of machine learning. *Journal of Machine Learning Research*, 21(248), 1-43.
+  of machine learning. _Journal of Machine Learning Research_, 21(248), 1-43.
 - Lacoste, A., Luccioni, A., Schmidt, V., & Dandres, T. (2019). Quantifying the
-  carbon emissions of machine learning. *arXiv:1910.09700*.
+  carbon emissions of machine learning. _arXiv:1910.09700_.
 - Luccioni, A. S., Jernite, Y., & Strubell, E. (2024). Power Hungry Processing:
-  Watts Driving the Cost of AI Deployment? *FAccT '24*.
+  Watts Driving the Cost of AI Deployment? _FAccT '24_.
   [doi:10.1145/3630106.3658542](https://doi.org/10.1145/3630106.3658542)
 
 ---

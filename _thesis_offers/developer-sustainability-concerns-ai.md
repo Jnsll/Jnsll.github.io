@@ -72,13 +72,13 @@ with empirical research that has direct impact on real-world practice.
 
 ## What You Will Do
 
-| Phase | Work |
-|---|---|
-| **Scoping & protocol** | Define research questions, data sources, and coding framework |
-| **Data collection** | Collect and curate developer discussions from selected AI projects/communities |
-| **Analysis** | Apply qualitative/quantitative analysis to identify themes, patterns, and trade-offs |
-| **Validation** | Triangulate findings via comparison across projects or small follow-up interviews/surveys |
-| **Outputs** | Deliver thesis, curated dataset/coding schema, and practical recommendations |
+| Phase                  | Work                                                                                      |
+| ---------------------- | ----------------------------------------------------------------------------------------- |
+| **Scoping & protocol** | Define research questions, data sources, and coding framework                             |
+| **Data collection**    | Collect and curate developer discussions from selected AI projects/communities            |
+| **Analysis**           | Apply qualitative/quantitative analysis to identify themes, patterns, and trade-offs      |
+| **Validation**         | Triangulate findings via comparison across projects or small follow-up interviews/surveys |
+| **Outputs**            | Deliver thesis, curated dataset/coding schema, and practical recommendations              |
 
 ---
 
@@ -95,11 +95,13 @@ with empirical research that has direct impact on real-world practice.
 ## Who Should Apply
 
 **Required courses:**
+
 - Programming in Python (INF-22306)
 - Machine Learning (FTE-35306)
 - Big Data (INF-33806)
 
 **Required skills & mindset:**
+
 - Solid analytical skills and clear writing
 - Interest in AI systems, sustainability, and developer practices
 - Curiosity for empirical research (qualitative and quantitative)
@@ -110,15 +112,15 @@ with empirical research that has direct impact on real-world practice.
 ## Key References
 
 - Verdecchia, R., Sallou, J., & Cruz, L. (2023). A systematic review of Green
-  AI. *WIREs Data Mining and Knowledge Discovery*, 13(4), e1507.
+  AI. _WIREs Data Mining and Knowledge Discovery_, 13(4), e1507.
   [doi:10.1002/widm.1507](https://doi.org/10.1002/widm.1507)
 - Henderson, P., Hu, J., Romoff, J., Brunskill, E., Jurafsky, D., & Pineau, J.
   (2020). Towards the systematic reporting of the energy and carbon footprints
-  of machine learning. *Journal of Machine Learning Research*, 21(248), 1-43.
+  of machine learning. _Journal of Machine Learning Research_, 21(248), 1-43.
 - Strubell, E., Ganesh, A., & McCallum, A. (2019). Energy and policy
-  considerations for deep learning in NLP. *ACL 2019*, 3645-3650.
+  considerations for deep learning in NLP. _ACL 2019_, 3645-3650.
 - Luccioni, A. S., Jernite, Y., & Strubell, E. (2024). Power Hungry Processing:
-  Watts Driving the Cost of AI Deployment? *FAccT '24*.
+  Watts Driving the Cost of AI Deployment? _FAccT '24_.
   [doi:10.1145/3630106.3658542](https://doi.org/10.1145/3630106.3658542)
 
 ---

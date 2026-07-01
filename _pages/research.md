@@ -22,7 +22,7 @@ to global carbon emissions, and the trajectory is still rising.
 
 My research is driven by a single conviction: **sustainability must become a
 first-class property of software, not an afterthought**. This means
-understanding, at the code level, *why* software uses the energy it does,
+understanding, at the code level, _why_ software uses the energy it does,
 and redesigning it so that it uses far less, without losing the capabilities
 we depend on.
 
@@ -31,7 +31,6 @@ and **environmental computing**. It is empirical, measurement-driven, and
 grounded in real systems.
 
 ---
-
 
 ## Research Themes
 
@@ -45,6 +44,7 @@ performance, robustness, and practical usefulness.
 through evidence-based optimization strategies.
 
 **Research questions:**
+
 - Which training and inference strategies reduce energy use without harming
   task quality?
 - How do optimization choices (e.g., pruning, batching, quantization) shift
@@ -64,6 +64,7 @@ that improve both sustainability and scientific reliability.
 software systems and experiment pipelines.
 
 **Research questions:**
+
 - Which architectural and implementation choices in scientific software drive
   avoidable energy consumption?
 - How can reproducibility and maintainability be improved without increasing
@@ -83,6 +84,7 @@ computation with cleaner and more efficient execution opportunities.
 carbon emissions and energy waste.
 
 **Research questions:**
+
 - How can workloads be shifted or scheduled based on electricity carbon
   intensity without unacceptable user impact?
 - Which runtime adaptation strategies are effective across different software
@@ -102,6 +104,7 @@ both research and engineering workflows.
 translate them into practical developer tooling.
 
 **Research questions:**
+
 - How accurate and reproducible are common software energy measurement
   interfaces across hardware and workloads?
 - Which protocols are needed for statistically valid and comparable
@@ -117,5 +120,3 @@ Beyond core technical work, I also develop communication and decision-support
 tools (including interactive and VR-based formats) to help practitioners,
 students, and stakeholders better understand the environmental impact of AI and
 software systems.
-
-

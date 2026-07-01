@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:page_with_curl: Paper accepted at **ICVR 2026**: *Carbon Chat: A Virtual Reality Game to Raise Awareness of the Environmental Impact of LLMs*.
+:page_with_curl: Paper accepted at **ICVR 2026**: _Carbon Chat: A Virtual Reality Game to Raise Awareness of the Environmental Impact of LLMs_.

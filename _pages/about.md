@@ -19,8 +19,6 @@ profile:
     <p><i class="fa-solid fa-location-dot"></i> Wageningen, The Netherlands</p>
     <p><i class="fa-solid fa-envelope"></i> june.sallou{AT}wur{DOT}nl</p>
 
-
-
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
@@ -39,8 +37,8 @@ I am an Assistant Professor in **Sustainable Software Engineering** at [Wagening
 **more energy-efficient and environmentally responsible**.
 
 My work sits at the intersection of **scientific software engineering**, **AI systems**, and **environmental sustainability**.
-I ask questions like: *How much energy does an AI-based system really consume, and can we cut it without sacrificing accuracy? How do we design software architectures that are aware of
-their carbon footprint? How do we engineer scientific software so experiments are reproducible, maintainable, and energy-aware? Can we build tools that make Green AI the default, not an afterthought?*
+I ask questions like: _How much energy does an AI-based system really consume, and can we cut it without sacrificing accuracy? How do we design software architectures that are aware of
+their carbon footprint? How do we engineer scientific software so experiments are reproducible, maintainable, and energy-aware? Can we build tools that make Green AI the default, not an afterthought?_
 
 Concretely, my research spans:
 
@@ -56,8 +54,8 @@ I also develop **communication and decision-support tools** (e.g., interactive/V
 
 <div style="margin-top: 2rem;"></div>
 
-> *"The best time to make software sustainable was at the start of the project. 
-> The second best time is now."*
+> _"The best time to make software sustainable was at the start of the project.
+> The second best time is now."_
 
 <div style="margin-top: 2rem;"></div>
 

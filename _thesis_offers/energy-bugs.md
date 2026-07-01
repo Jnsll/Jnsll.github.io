@@ -20,7 +20,7 @@ wur_url: "https://wur.jobteaser.com/en/backend/job-offers/4a95bb3d-9443-4aa2-a03
 </div>
 
 > Most developers write code that works. This thesis is about writing code that
-> works *and* does not silently drain energy. It turns out, the two are not the
+> works _and_ does not silently drain energy. It turns out, the two are not the
 > same, and the difference matters.
 
 ---
@@ -78,23 +78,25 @@ act on directly.
 
 ## What You Will Do
 
-| Phase | Work |
-|---|---|
-| **Literature & setup** | Focused study on energy hotspots and bugs; selection of a suitable open-source system and representative workloads |
-| **Experiment design** | Design and implement a repeatable environment combining software profiling with energy measurement |
-| **Analysis** | Run controlled experiments to identify and characterise the main energy inefficiencies |
-| **Improvement** | Propose, implement, and evaluate one or more fixes; analyse trade-offs between energy use, performance, and correctness |
-| **Dissemination** | Write up findings in a thesis; document the methodology for reuse |
+| Phase                  | Work                                                                                                                    |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| **Literature & setup** | Focused study on energy hotspots and bugs; selection of a suitable open-source system and representative workloads      |
+| **Experiment design**  | Design and implement a repeatable environment combining software profiling with energy measurement                      |
+| **Analysis**           | Run controlled experiments to identify and characterise the main energy inefficiencies                                  |
+| **Improvement**        | Propose, implement, and evaluate one or more fixes; analyse trade-offs between energy use, performance, and correctness |
+| **Dissemination**      | Write up findings in a thesis; document the methodology for reuse                                                       |
 
 ---
 
 ## Who Should Apply
 
 **Required courses:**
+
 - Programming in Python (INF22306)
 - Software Engineering (INF32306)
 
 **Required skills & mindset:**
+
 - Ability to read and modify existing codebases
 - Programming and data analysis skills (Python)
 - Genuine interest in sustainability and empirical software engineering
@@ -105,16 +107,16 @@ act on directly.
 ## Key References
 
 - Noureddine, A., Rouvoy, R., & Seinturier, L. (2015). Monitoring energy
-  hotspots in software. *Automated Software Engineering*, 22(3), 291–332.
+  hotspots in software. _Automated Software Engineering_, 22(3), 291–332.
   [doi:10.1007/s10515-014-0171-1](https://doi.org/10.1007/s10515-014-0171-1)
 
 - Verdecchia, R., Guldner, A., Becker, Y., & Kern, E. (2018). Code-Level Energy
-  Hotspot Localization via Naive Spectrum Based Testing. *Advances and New
-  Trends in Environmental Informatics*. Springer.
+  Hotspot Localization via Naive Spectrum Based Testing. _Advances and New
+  Trends in Environmental Informatics_. Springer.
   [doi:10.1007/978-3-319-99654-7_8](https://doi.org/10.1007/978-3-319-99654-7_8)
 
 - Hindle, A. (2015). Green mining: A methodology of relating software change
-  and configuration to power consumption. *Empirical Software Engineering*,
+  and configuration to power consumption. _Empirical Software Engineering_,
   20(2), 374–409.
 
 - Green Software Foundation. (2023). Software carbon intensity specification.

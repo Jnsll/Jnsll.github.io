@@ -6,12 +6,7 @@
 
 **A simple, clean, and responsive [Jekyll](https://jekyllrb.com/) theme for academics.**
 
-
 </div>
-
-
-
-
 
 ## Table Of Contents
 
@@ -267,8 +262,6 @@ For complete setup and customization details, see [GDPR Cookie Consent Dialog](#
 ## FAQ
 
 For frequently asked questions, please refer to [FAQ.md](FAQ.md).
-
-
 
 ### Maintainers
 

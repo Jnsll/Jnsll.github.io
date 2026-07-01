@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-
-:page_with_curl: Paper accepted in **Automated Software Engineering**: *Advancing Research Software Engineering with AI: A Research Framework*.
+:page_with_curl: Paper accepted in **Automated Software Engineering**: _Advancing Research Software Engineering with AI: A Research Framework_.

@@ -68,24 +68,26 @@ Italy. Students will benefit from an international research setting.
 
 ## What You Will Do
 
-| Phase | Work |
-|---|---|
+| Phase                  | Work                                                                                                             |
+| ---------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | **Literature & setup** | Review Green AI, LLM systems, and energy-measurement methods; select an agent framework and representative tasks |
-| **Method design** | Define metrics, workloads, and controlled experiment settings for fair comparisons |
-| **Implementation** | Build instrumentation and logging pipeline for agent runs and associated energy signals |
-| **Evaluation** | Run experiments across configurations; analyze energy-quality-latency trade-offs |
-| **Reporting** | Produce thesis artifacts: methodology, dataset of runs, and recommendations |
+| **Method design**      | Define metrics, workloads, and controlled experiment settings for fair comparisons                               |
+| **Implementation**     | Build instrumentation and logging pipeline for agent runs and associated energy signals                          |
+| **Evaluation**         | Run experiments across configurations; analyze energy-quality-latency trade-offs                                 |
+| **Reporting**          | Produce thesis artifacts: methodology, dataset of runs, and recommendations                                      |
 
 ---
 
 ## Who Should Apply
 
 **Required courses:**
+
 - Programming in Python (INF-22306)
 - Machine Learning (FTE-35306)
 - Big Data (INF-33806)
 
 **Required skills & mindset:**
+
 - Strong Python programming and data analysis skills
 - Interest in AI systems and sustainability
 - Comfort with experimentation, benchmarking, and reproducibility
@@ -96,32 +98,32 @@ Italy. Students will benefit from an international research setting.
 ## Key References
 
 - Verdecchia, R., Sallou, J., & Cruz, L. (2023). A systematic review of Green
-  AI. *WIREs Data Mining and Knowledge Discovery*, 13(4), e1507.
+  AI. _WIREs Data Mining and Knowledge Discovery_, 13(4), e1507.
   [doi:10.1002/widm.1507](https://doi.org/10.1002/widm.1507)
 - Henderson, P., Hu, J., Romoff, J., Brunskill, E., Jurafsky, D., & Pineau, J.
   (2020). Towards the systematic reporting of the energy and carbon footprints
-  of machine learning. *Journal of Machine Learning Research*, 21(248), 1-43.
+  of machine learning. _Journal of Machine Learning Research_, 21(248), 1-43.
 - Lacoste, A., Luccioni, A., Schmidt, V., & Dandres, T. (2019). Quantifying the
-  carbon emissions of machine learning. *arXiv:1910.09700*.
+  carbon emissions of machine learning. _arXiv:1910.09700_.
 - Strubell, E., Ganesh, A., & McCallum, A. (2019). Energy and policy
-  considerations for deep learning in NLP. *ACL 2019*, 3645-3650.
+  considerations for deep learning in NLP. _ACL 2019_, 3645-3650.
 - Luccioni, A. S., Jernite, Y., & Strubell, E. (2024). Power Hungry Processing:
-  Watts Driving the Cost of AI Deployment? *FAccT '24*.
+  Watts Driving the Cost of AI Deployment? _FAccT '24_.
   [doi:10.1145/3630106.3658542](https://doi.org/10.1145/3630106.3658542)
 - Kim, B., Choi, Y., Mei, H., et al. (2025). The ML.ENERGY Benchmark: Toward
   Automated Inference Energy Measurement and Optimization.
-  *arXiv:2505.06371*.
+  _arXiv:2505.06371_.
   [arXiv:2505.06371](https://arxiv.org/abs/2505.06371)
 - Ni, Y., Wang, Y., Lu, M., et al. (2026). Budget-Constrained Agentic Large
   Language Models: Intention-Based Planning for Costly Tool Use.
-  *arXiv:2602.11541*.
+  _arXiv:2602.11541_.
   [arXiv:2602.11541](https://arxiv.org/abs/2602.11541)
 - Wang, Z., Luo, X., Liu, H., et al. (2026). Spend Less, Reason Better:
-  Budget-Aware Value Tree Search for LLM Agents. *arXiv:2603.12634*.
+  Budget-Aware Value Tree Search for LLM Agents. _arXiv:2603.12634_.
   [arXiv:2603.12634](https://arxiv.org/abs/2603.12634)
 - Tripathy, A., Harshit, C. P., & Vaidhyanathan, K. (2025). SWEnergy: An
   Empirical Study on Energy Efficiency in Agentic Issue Resolution Frameworks
-  with SLMs. *arXiv:2512.09543*.
+  with SLMs. _arXiv:2512.09543_.
   [arXiv:2512.09543](https://arxiv.org/abs/2512.09543)
 
 ---

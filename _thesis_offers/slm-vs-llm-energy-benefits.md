@@ -71,13 +71,13 @@ questions with direct relevance for industry and research decision-making.
 
 ## What You Will Do
 
-| Phase | Work |
-|---|---|
-| **Literature & setup** | Review existing SLM/LLM efficiency work; select tasks, models, and metrics |
-| **Benchmark design** | Define controlled experiment settings (prompts, decoding, hardware, repetitions) |
-| **Data collection** | Run SLM and LLM evaluations while logging quality and energy metrics |
-| **Analysis** | Quantify trade-offs and identify conditions where SLMs offer robust benefits |
-| **Outputs** | Deliver thesis, reproducible benchmark scripts, and practical model-selection guidance |
+| Phase                  | Work                                                                                   |
+| ---------------------- | -------------------------------------------------------------------------------------- |
+| **Literature & setup** | Review existing SLM/LLM efficiency work; select tasks, models, and metrics             |
+| **Benchmark design**   | Define controlled experiment settings (prompts, decoding, hardware, repetitions)       |
+| **Data collection**    | Run SLM and LLM evaluations while logging quality and energy metrics                   |
+| **Analysis**           | Quantify trade-offs and identify conditions where SLMs offer robust benefits           |
+| **Outputs**            | Deliver thesis, reproducible benchmark scripts, and practical model-selection guidance |
 
 ---
 
@@ -95,11 +95,13 @@ questions with direct relevance for industry and research decision-making.
 ## Who Should Apply
 
 **Required courses:**
+
 - Programming in Python (INF-22306)
 - Machine Learning (FTE-35306)
 - Big Data (INF-33806)
 
 **Required skills & mindset:**
+
 - Solid programming and data analysis skills
 - Interest in AI systems and sustainability
 - Curiosity for empirical experimentation and benchmarking
@@ -110,18 +112,18 @@ questions with direct relevance for industry and research decision-making.
 ## Key References
 
 - Verdecchia, R., Sallou, J., & Cruz, L. (2023). A systematic review of Green
-  AI. *WIREs Data Mining and Knowledge Discovery*, 13(4), e1507.
+  AI. _WIREs Data Mining and Knowledge Discovery_, 13(4), e1507.
   [doi:10.1002/widm.1507](https://doi.org/10.1002/widm.1507)
 - Luccioni, A. S., Jernite, Y., & Strubell, E. (2024). Power Hungry Processing:
-  Watts Driving the Cost of AI Deployment? *FAccT '24*.
+  Watts Driving the Cost of AI Deployment? _FAccT '24_.
   [doi:10.1145/3630106.3658542](https://doi.org/10.1145/3630106.3658542)
 - Kim, B., Choi, Y., Mei, H., et al. (2025). The ML.ENERGY Benchmark: Toward
   Automated Inference Energy Measurement and Optimization.
-  *arXiv:2505.06371*.
+  _arXiv:2505.06371_.
   [arXiv:2505.06371](https://arxiv.org/abs/2505.06371)
 - Tripathy, A., Harshit, C. P., & Vaidhyanathan, K. (2025). SWEnergy: An
   Empirical Study on Energy Efficiency in Agentic Issue Resolution Frameworks
-  with SLMs. *arXiv:2512.09543*.
+  with SLMs. _arXiv:2512.09543_.
   [arXiv:2512.09543](https://arxiv.org/abs/2512.09543)
 
 ---

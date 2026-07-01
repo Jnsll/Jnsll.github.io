@@ -9,7 +9,6 @@ category: Work
 related_publications: false
 ---
 
-
 **Official project website:** [https://www.quantum4energy.nl/](https://www.quantum4energy.nl/){:target="_blank"}
 
 ## At a Glance
@@ -48,7 +47,7 @@ creating a visible, coordinated community.
 
 ## Main Goals
 
-The *Quantum4EnergyNL* initiative aims to:
+The _Quantum4EnergyNL_ initiative aims to:
 
 1. Build a cross-disciplinary 4TU community linking ICT and electrical
    engineering researchers focused on quantum applications for energy systems.

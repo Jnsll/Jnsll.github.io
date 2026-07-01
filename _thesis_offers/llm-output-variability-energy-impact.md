@@ -73,13 +73,13 @@ analysis, and sustainability into a concrete and timely research project.
 
 ## What You Will Do
 
-| Phase | Work |
-|---|---|
-| **Literature & design** | Review LLM energy measurement and output variability studies; define workloads and metrics |
-| **Experiment setup** | Build an experimental pipeline for repeated LLM runs with controlled decoding settings |
-| **Data collection** | Execute runs, log outputs and runtime behavior, and collect energy/power measurements |
-| **Analysis** | Model relationships between output variability and energy; identify dominant drivers and uncertainty ranges |
-| **Outputs** | Deliver thesis, reproducible scripts, and practical guidelines for energy-aware LLM experimentation |
+| Phase                   | Work                                                                                                        |
+| ----------------------- | ----------------------------------------------------------------------------------------------------------- |
+| **Literature & design** | Review LLM energy measurement and output variability studies; define workloads and metrics                  |
+| **Experiment setup**    | Build an experimental pipeline for repeated LLM runs with controlled decoding settings                      |
+| **Data collection**     | Execute runs, log outputs and runtime behavior, and collect energy/power measurements                       |
+| **Analysis**            | Model relationships between output variability and energy; identify dominant drivers and uncertainty ranges |
+| **Outputs**             | Deliver thesis, reproducible scripts, and practical guidelines for energy-aware LLM experimentation         |
 
 ---
 
@@ -96,11 +96,13 @@ analysis, and sustainability into a concrete and timely research project.
 ## Who Should Apply
 
 **Required courses:**
+
 - Programming in Python (INF-22306)
 - Machine Learning (FTE-35306)
 - Big Data (INF-33806)
 
 **Required skills & mindset:**
+
 - Solid programming and data analysis skills
 - Interest in AI systems and sustainability
 - Curiosity for empirical experimentation and benchmarking
@@ -111,18 +113,18 @@ analysis, and sustainability into a concrete and timely research project.
 ## Key References
 
 - Verdecchia, R., Sallou, J., & Cruz, L. (2023). A systematic review of Green
-  AI. *WIREs Data Mining and Knowledge Discovery*, 13(4), e1507.
+  AI. _WIREs Data Mining and Knowledge Discovery_, 13(4), e1507.
   [doi:10.1002/widm.1507](https://doi.org/10.1002/widm.1507)
 - Luccioni, A. S., Jernite, Y., & Strubell, E. (2024). Power Hungry Processing:
-  Watts Driving the Cost of AI Deployment? *FAccT '24*.
+  Watts Driving the Cost of AI Deployment? _FAccT '24_.
   [doi:10.1145/3630106.3658542](https://doi.org/10.1145/3630106.3658542)
 - Kim, B., Choi, Y., Mei, H., et al. (2025). The ML.ENERGY Benchmark: Toward
   Automated Inference Energy Measurement and Optimization.
-  *arXiv:2505.06371*.
+  _arXiv:2505.06371_.
   [arXiv:2505.06371](https://arxiv.org/abs/2505.06371)
 - Henderson, P., Hu, J., Romoff, J., Brunskill, E., Jurafsky, D., & Pineau, J.
   (2020). Towards the systematic reporting of the energy and carbon footprints
-  of machine learning. *Journal of Machine Learning Research*, 21(248), 1-43.
+  of machine learning. _Journal of Machine Learning Research_, 21(248), 1-43.
 
 ---
 

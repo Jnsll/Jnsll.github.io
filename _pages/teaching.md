@@ -7,6 +7,7 @@ nav: true
 nav_order: 5
 calendar: true
 ---
+
 <!--
 This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
 
@@ -21,6 +22,7 @@ of established knowledge. My courses span **programming**, **software
 engineering**, and **data science**, with a recurring thread of environmental
 awareness running through all of them.
 -->
+
 ---
 
 <h2 class="mt-5">
@@ -181,7 +183,7 @@ carbon-aware computing, and lifecycle analysis. Co-taught with
 
 At ISTIC I taught across the software engineering curriculum, covering both
 foundational topics (object-oriented analysis, software architecture) and
-systems topics (distributed systems, scientific modelling). 
+systems topics (distributed systems, scientific modelling).
 
 ---
 
@@ -196,4 +198,3 @@ carbon-aware computing. If you are a student at Wageningen University and
 looking for a thesis topic at the frontier of software engineering and
 environmental sustainability, **get in touch** with a
 short motivation.
-

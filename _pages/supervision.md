@@ -23,7 +23,6 @@ that fall within this space.
 Interested in working with me? See the [open opportunities](#opportunities)
 at the bottom of this page.
 
-
 ---
 
 <!-- PhD -->
@@ -72,7 +71,7 @@ at the bottom of this page.
   </div>
 </div>
 {% endfor %}
- 
+
 ---
 
 <!-- MSc -->

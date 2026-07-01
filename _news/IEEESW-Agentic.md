@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:page_with_curl: Paper accepted in **IEEE Software**: *Making Sense of AI Agents Hype: Adoption, Architectures, and Takeaways from Practitioners*.
+:page_with_curl: Paper accepted in **IEEE Software**: _Making Sense of AI Agents Hype: Adoption, Architectures, and Takeaways from Practitioners_.
