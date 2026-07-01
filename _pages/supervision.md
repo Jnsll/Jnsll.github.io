@@ -45,6 +45,8 @@ at the bottom of this page.
       <h5 class="card-title mb-1">{{ student.name }}</h5>
       {% if student.status == "ongoing" %}
         <span class="badge rounded-pill bg-success">Ongoing</span>
+      {% elsif student.status == "upcoming" %}
+        <span class="badge rounded-pill" style="background-color:#e0a500;">Upcoming</span>
       {% else %}
         <span class="badge rounded-pill" style="background-color:#5b7fa6;">Completed</span>
       {% endif %}
@@ -88,6 +90,8 @@ at the bottom of this page.
       <h6 class="mb-0">{{ student.name }}</h6>
       {% if student.status == "ongoing" %}
         <span class="badge rounded-pill bg-success">Ongoing</span>
+      {% elsif student.status == "upcoming" %}
+        <span class="badge rounded-pill" style="background-color:#e0a500;">Upcoming</span>
       {% else %}
         <span class="badge rounded-pill" style="background-color:#5b7fa6;">Completed</span>
       {% endif %}
@@ -131,6 +135,8 @@ at the bottom of this page.
       <h6 class="mb-0">{{ student.name }}</h6>
       {% if student.status == "ongoing" %}
         <span class="badge rounded-pill bg-success">Ongoing</span>
+      {% elsif student.status == "upcoming" %}
+        <span class="badge rounded-pill" style="background-color:#e0a500;">Upcoming</span>
       {% else %}
         <span class="badge rounded-pill" style="background-color:#5b7fa6;">Completed</span>
       {% endif %}
@@ -173,10 +179,12 @@ at the bottom of this page.
     <div class="d-flex justify-content-between align-items-center">
       <h6 class="mb-0">{{ student.name }}</h6>
       {% if student.status == "ongoing" %}
-        <span class="badge rounded-pill bg-success">Ongoing</span>
-      {% else %}
-        <span class="badge rounded-pill" style="background-color:#5b7fa6;">Completed</span>
-      {% endif %}
+  <span class="badge rounded-pill bg-success">Ongoing</span>
+  {% elsif student.status == "upcoming" %}
+  <span class="badge rounded-pill" style="background-color:#e0a500;">Upcoming</span>
+  {% else %}
+  <span class="badge rounded-pill" style="background-color:#5b7fa6;">Completed</span>
+  {% endif %}
     </div>
     <p class="text-muted mb-1 mt-1" style="font-size:0.85em;"><i class="fa-solid fa-code"></i>&nbsp;{{ student.topic }}</p>
     <p class="mb-0" style="font-size:0.8em;">

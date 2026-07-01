@@ -16,6 +16,16 @@ phd:
     co_supervisor: "Luís Cruz, Arie van Deursen"
 
 msc:
+  - name: Swayam Belokar
+    topic: "AI Energy Prediction for Smart Grid"
+    year: 09-2026
+    institution: Wageningen University & Research
+    status: upcoming
+    co_supervisor: "Tarek Alskaif"
+    url: ""
+    github: ""
+    papers: []
+
   - name: Otto Kaaij
     topic: "SMURF: a Methodology for Energy Profiling Software Systems"
     year: 02-2025
@@ -86,8 +96,14 @@ bsc:
 
   
 
-
 internships:
+  - name: Göksun Gurell
+    topic: "Usage of Skills in Agentic Systems"
+    year: 2026
+    institution: İzmir University of Economics
+    status: ongoing
+    co_supervisor: ""
+
   - name: Tanja Rauer
     topic: "Balancing and Risk Management in a Cooperative Energy Supplier"
     year: 2026
