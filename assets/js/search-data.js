@@ -148,7 +148,12 @@ ninja.data = [{
           section: "News",},{id: "news-giving-a-workshop-at-icai-summer-school-2026-on-measuring-and-reducing-the-ai-energy-footprint-event-page",
           title: 'Giving a workshop at ICAI Summer School 2026 on measuring and reducing the...',
           description: "",
-          section: "News",},{id: "projects-agora-6g",
+          section: "News",},{id: "news-workshop-at-icai-summer-school-2026-greener-code-a-great-experience",
+          title: 'Workshop at ICAI Summer School 2026: Greener Code. A great experience!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/ICAISummerSchool_after/";
+            },},{id: "projects-agora-6g",
           title: 'AGORA-6G',
           description: "Reproducible and governable Open RAN testbeds for AI-native 6G.",
           section: "Projects",handler: () => {
