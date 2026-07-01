@@ -153,6 +153,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/ICAISummerSchool_after/";
+            },},{id: "news-guest-lecture-at-the-university-of-regensburg-the-hidden-cost-of-ai",
+          title: 'Guest Lecture at the University of Regensburg: The Hidden Cost of AI',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/RegensburgGuestLecture/";
             },},{id: "projects-agora-6g",
           title: 'AGORA-6G',
           description: "Reproducible and governable Open RAN testbeds for AI-native 6G.",
