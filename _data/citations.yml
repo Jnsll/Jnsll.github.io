@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-11'
+  last_updated: '2026-07-13'
 papers:
   Cf2d4FkAAAAJ:2VqYfGB8ITEC:
     citations: 0
     title: Greening AI
     year: '2026'
   Cf2d4FkAAAAJ:2osOgNQ5qMEC:
-    citations: 2
+    citations: 3
     title: On the role of computer languages in scientific computing
     year: '2023'
   Cf2d4FkAAAAJ:4OULZ7Gr8RgC:
@@ -42,11 +42,11 @@ papers:
     title: "Joint Proceedings of ICT4S 2023 Doctoral Symposium, Demonstrations & Posters Track and Workshops co-located with 9th International Conference on Information and Communications \u2026"
     year: '2023'
   Cf2d4FkAAAAJ:PVjk1bu6vJQC:
-    citations: 2
+    citations: 6
     title: 'Advancing Research Software Engineering with AI: A Research Framework'
     year: '2026'
   Cf2d4FkAAAAJ:Se3iqnhoufwC:
-    citations: 112
+    citations: 119
     title: Data-centric green ai an exploratory empirical study
     year: '2022'
   Cf2d4FkAAAAJ:VOx2b1Wkg3QC:
@@ -58,7 +58,7 @@ papers:
     title: 'Sustainable Machine Learning Retraining: Optimizing Energy Efficiency Without Compromising Accuracy'
     year: '2025'
   Cf2d4FkAAAAJ:_5tno0g5mFcC:
-    citations: 0
+    citations: 1
     title: "HydroModPy\u2013a Python toolbox for deploying catchment-scale shallow groundwater models"
     year: '2026'
   Cf2d4FkAAAAJ:_xSYboBqXhAC:
@@ -66,15 +66,15 @@ papers:
     title: Retrain AI Systems Responsibly! Use Sustainable Concept Drift Adaptation Techniques
     year: '2023'
   Cf2d4FkAAAAJ:abG-DnoFyZgC:
-    citations: 12
+    citations: 14
     title: Batching for Green AI-An Exploratory Study on Inference
     year: '2023'
   Cf2d4FkAAAAJ:b0M2c_1WBrUC:
-    citations: 519
+    citations: 589
     title: A systematic review of Green AI
     year: '2023'
   Cf2d4FkAAAAJ:bnK-pcrLprsC:
-    citations: 19
+    citations: 20
     title: 'EnergiBridge: Empowering Software Sustainability through Cross-Platform Energy Measurement'
     year: '2023'
   Cf2d4FkAAAAJ:d1gkVwhDpl0C:
@@ -86,7 +86,7 @@ papers:
     title: 'Making Sense of AI Agents Hype: Adoption, Architectures, and Takeaways from Practitioners'
     year: '2026'
   Cf2d4FkAAAAJ:e_rmSamDkqQC:
-    citations: 6
+    citations: 7
     title: Can We Make Code Green? Understanding Trade-Offs in LLMs vs. Human Code Optimizations
     year: '2025'
   Cf2d4FkAAAAJ:fPk4N6BV_jEC:
@@ -94,15 +94,15 @@ papers:
     title: Student Contest on Software Engineering (SCORE)
     year: Unknown Year
   Cf2d4FkAAAAJ:hCrLmN-GePgC:
-    citations: 17
+    citations: 25
     title: 'Greening ai-enabled systems with software engineering: A research agenda for environmentally sustainable ai practices'
     year: '2025'
   Cf2d4FkAAAAJ:ipzZ9siozwsC:
-    citations: 15
+    citations: 21
     title: 'Green AI in Action: Strategic Model Selection for Ensembles in Production'
     year: '2024'
   Cf2d4FkAAAAJ:kuK5TVdYjLIC:
-    citations: 2
+    citations: 3
     title: 'HydroModPy: A Python toolbox for deploying catchment-scale shallow groundwater models'
     year: '2025'
   Cf2d4FkAAAAJ:mNrWkgRL2YcC:
@@ -114,11 +114,11 @@ papers:
     title: 'On reliability and flexibility of scientific software in environmental science: towards a systematic approach to support decision-making'
     year: '2022'
   Cf2d4FkAAAAJ:qxL8FJ1GzNcC:
-    citations: 89
+    citations: 95
     title: 'Uncovering Energy-Efficient Practices in Deep Learning Training: Preliminary Steps Towards Green AI'
     year: '2023'
   Cf2d4FkAAAAJ:u-x6o8ySG0sC:
-    citations: 66
+    citations: 68
     title: A Hitchhiker's Guide to Model-Driven Engineering for Data-Centric Systems
     year: '2020'
   Cf2d4FkAAAAJ:u5HHmVD_uO8C:
@@ -133,7 +133,11 @@ papers:
     citations: 5
     title: 'Fastqt 0.2. 3: A quality control tool for high throughput sequence data'
     year: '2017'
+  Cf2d4FkAAAAJ:yFnVuubrUp4C:
+    citations: 0
+    title: 'Quantum technologies for future power & energy systems: opportunities, roadblocks, and a call to action from Quantum4EnergyNL'
+    year: '2026'
   Cf2d4FkAAAAJ:ye4kPcJQO24C:
-    citations: 178
+    citations: 202
     title: 'Breaking the Silence: the Threats of Using LLMs in Software Engineering'
     year: '2024'
