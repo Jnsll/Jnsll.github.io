@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-13'
+  last_updated: '2026-07-15'
 papers:
   Cf2d4FkAAAAJ:2VqYfGB8ITEC:
     citations: 0
@@ -46,7 +46,7 @@ papers:
     title: 'Advancing Research Software Engineering with AI: A Research Framework'
     year: '2026'
   Cf2d4FkAAAAJ:Se3iqnhoufwC:
-    citations: 119
+    citations: 120
     title: Data-centric green ai an exploratory empirical study
     year: '2022'
   Cf2d4FkAAAAJ:VOx2b1Wkg3QC:
@@ -70,11 +70,11 @@ papers:
     title: Batching for Green AI-An Exploratory Study on Inference
     year: '2023'
   Cf2d4FkAAAAJ:b0M2c_1WBrUC:
-    citations: 589
+    citations: 592
     title: A systematic review of Green AI
     year: '2023'
   Cf2d4FkAAAAJ:bnK-pcrLprsC:
-    citations: 20
+    citations: 21
     title: 'EnergiBridge: Empowering Software Sustainability through Cross-Platform Energy Measurement'
     year: '2023'
   Cf2d4FkAAAAJ:d1gkVwhDpl0C:
