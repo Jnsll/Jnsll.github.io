@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-22'
+  last_updated: '2026-07-24'
 papers:
   Cf2d4FkAAAAJ:2VqYfGB8ITEC:
     citations: 0
@@ -70,7 +70,7 @@ papers:
     title: Batching for Green AI-An Exploratory Study on Inference
     year: '2023'
   Cf2d4FkAAAAJ:b0M2c_1WBrUC:
-    citations: 599
+    citations: 603
     title: A systematic review of Green AI
     year: '2023'
   Cf2d4FkAAAAJ:bnK-pcrLprsC:
